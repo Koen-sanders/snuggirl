@@ -9,7 +9,7 @@
     <title>Home | Snuggirl Official</title>
 </head>
 <body>
-    <div>
+    <div id="logoCont">
       <img src="images/sglogo.png" onclick="redirect('portfolio')" class="logoBtn"/>
     </div>
 

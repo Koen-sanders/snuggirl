@@ -2,18 +2,20 @@ body {
     margin: 0;
 }
 
+#logoCont{
+    display: flex;justify-content:center ;
+}
+
 .logoBtn {
-    top: 50px;
+    margin-top: 30px;
     width: 250px;
     background-color: transparent;
-    margin: auto;
-    display: flex;
-    justify-content: center;
+    text-align: center;
     cursor: pointer;
 }
 
 .NavBar {
-        top: 150px;
+        top: 1600px;
         background-color: transparent;
         margin-top: 40px;   
         font-size: 25px;
@@ -44,7 +46,7 @@ body {
 
 .bannerImg {
     position: absolute;
-    top: 260px;
+    top: 290px;
     width: 100%;
     height: 740px;
     margin: 0px;
@@ -52,7 +54,7 @@ body {
 }
 .welcometopaper {
     position: absolute;
-    top: 260px;
+    top: 390px;
     width: 924px;
     height: 415px;
     margin: 0px;
