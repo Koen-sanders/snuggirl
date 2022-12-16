@@ -25,6 +25,10 @@
 
     <div>
         <img class="bannerImg" src="images/banner.png" />
+        <img class="welcometopaper"src="images/welcometopaper.png" />
+    </div>
+
+    <div class="footer"> 
     </div>
 </body>
 </html>
